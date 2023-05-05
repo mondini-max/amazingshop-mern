@@ -1,4 +1,4 @@
-// import p1 from '../assets/images/p1.jpg';
+// import p1 from '../../S3/assets/images/p1.jpg';
 // import p2 from '../assets/images/p2.jpg';
 // import p3 from '../assets/images/p3.jpg';
 // import p4 from '../assets/images/p4.jpg';
@@ -9,7 +9,7 @@ export const data = {
       name: 'Nike slim t-shirt',
       slug: 'nike-slim-t-shirt',
       category: 'Shirts',
-      // image: p1,
+      image: '../../S3/assets/images/p1.jpg',
       price: 120,
       countInStock: 10,
       brand: 'Nike',
